@@ -1,0 +1,9 @@
+*.dll
+*.dylib
+*.exe
+*.out
+*.so
+*.test
+coverage.txt
+cmd/balancer-control-daemon/balancer-control-daemon
+./balancer-control-daemon
